@@ -1,0 +1,3 @@
+0.0.1 :
+-3 boutons de menu : Jouer, Options et Quitter
+-Interface inventaire 

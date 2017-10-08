@@ -1,0 +1,2 @@
+0.0.2 : 
+- Une musique de menu : Fantaisiste et calme
