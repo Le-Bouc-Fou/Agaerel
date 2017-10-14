@@ -1,1 +1,1 @@
-Rien pour le moment
+Base du jeu, chaque fichier inclus dans le code doit être déplacé ici !
